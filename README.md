@@ -1,2 +1,7 @@
 # Calculator-
-Modern Calculator Web App with a sleek dark-themed interface, Light/Dark mode toggle, calculation history, and support for addition, subtraction, multiplication, division, percentages, decimals, and sign changes. Built with HTML, CSS, and JavaScript, it features smooth animations, responsive design, and an intuitive user experience
+### Calculator Project Description
+
+This Calculator is a modern, responsive web application designed with a sleek dark-themed user interface and smooth user experience. It features a clean layout with a large display screen for calculations, a dedicated history section for tracking previous operations, and a stylish theme toggle button that allows users to switch between Light Mode and Dark Mode effortlessly. The calculator supports all essential arithmetic operations, including addition, subtraction, multiplication, division, percentage calculations, sign changes (+/-), decimal numbers, and clear functionality.
+
+The interface is built using CSS Grid for a structured button layout, with color-coded controls that improve usability and visual appeal. Yellow number buttons, pink function buttons, and cyan operator buttons create a vibrant contrast against the dark background, while rounded corners, soft shadows, and smooth animations provide a modern and professional look. The calculator is fully responsive, ensuring a seamless experience across desktops, tablets, and mobile devices. Additional features such as keyboard support, calculation history, error handling, and interactive hover and click effects make it both practical and user-friendly. This project demonstrates modern front-end development techniques using HTML, CSS, and JavaScript while focusing on clean design and functionality.
+
